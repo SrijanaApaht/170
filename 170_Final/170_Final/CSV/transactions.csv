@@ -1,0 +1,6 @@
+"id";"username";"transaction_type";"amount";"timestamp"
+1;"adam";"Deposit";"10000";"2024-04-24 14:44:51"
+2;"adam";"withdrawal";"10";"2024-04-24 17:33:23"
+3;"adam";"Withdrawal";"5";"2024-04-24 17:35:19"
+4;"adam";"Deposit";"100000";"2024-05-01 16:45:23"
+5;"adam";"Withdrawal";"1";"2024-05-01 16:45:23"
