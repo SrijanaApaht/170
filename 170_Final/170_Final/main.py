@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:1234@localhost/sfcu'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:Srijana12@localhost/sfcu'
 db = SQLAlchemy(app)
 app.secret_key = 'shhhh'
 
